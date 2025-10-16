@@ -16,6 +16,12 @@ Education
 
 Work experience
 ======
+* Laboratoire de Signaux et Systèmes (L2S) -- April 2025 - August 2025
+  * Centrale Supélec / Université de Paris-Saclay
+  * Duties include: Communication protocols (WiFi, BLE, GSM, LTE,5G-NR) and development of state-of-the-art algorithms to do localization using the studied protocols.
+  * Supervisor: Prof. Dr: Marwane Rezzouki (Paris-Saclay, France) / Prof. Dr. Raul de Lacerda (Centrale Supélec, France)
+
+
 * Ericsson Research: Undergraduate researcher -- 2023 - 2024
   * Wireless Communication Research Group (GTEL)
   * Duties include: technology development for Cell-free ISAC Networks
@@ -46,29 +52,44 @@ Skills
 * Technical/Scientific Writing
   * LaTeX
   * Markdown
+  * Office Package
 * Scientific Programming
-  * Matlab/Octave Simulink
+  * Matlab/Octave & Simulink
   * Python
+    * Tensorflow
+    * PyTorch 
   * Julia
   * C/C++
 * Monte-Carlo Simulations
-* B5G Systems
+* Communication protocols
+  * Groupe Special Mobile (GSM)
+  * Long-Term Evolution (LTE)
+  * 5G-New Radio (NR) SA/NSA
+  * IEEE 802.11 a/c/g/n/ac/ax (Wi-fi)
+  * Bluetooth Low Energy (BLE)
 * Optimization Techniques
   * Meta-heuristic Optimization
   * Convex Optimization
 * Artificial Inteligence
   * Machine Learning basics
-  * Deep Learning basics
-    * Tensorflow
-    * PyTorch 
+  * Deep Learning
+  * Computer vision
+  * Audio Processing
 * Electronic Basics
   * ESP32
   * FreeRTOS
+  * STM32
   * Arduino
+  * YOCTO
+  * BeagleBone
+  * GNU Radio
 * Signal Processing
 * Error Correction codes
-
-
+* Control and automation
+  * Digital Control
+  * Discrete Control
+  * Predictive Control
+  * Robust Control
 Languages
 ======
 * Portuguese -- Native
@@ -100,6 +121,7 @@ Teaching
 Refereces
 ======
 * Prof. Dr.-Ing. [Tarcisio Ferreira Maciel](http://tfmaciel.github.io/)
+* Prof. Dr. [Raul de Larcerda](https://l2s.centralesupelec.fr/en/u/de-lacerda-raul/)
 * Dr. [Roberto Pinto Antonioli](https://www.linkedin.com/in/roberto-antonioli-948887b9/?originalSubdomain=br)
 
 
