@@ -13,4 +13,4 @@ Due to good grades on the analogic electronic course, I was invited to volunteer
 
 Personal Interest areas
 ------
-Physical layer and medium access control layer algorithms; radio resource management, performance analysis and optimization techniques in wireless access networks, with special emphasis on cellular networks; multiple antenna techniques; mmWave communications, and device-to-device communications. Digital signal processing and artificial intelligence integration are at the physical layer.
+Physical layer and medium access control layer algorithms; radio resource management, performance analysis and optimization techniques in wireless access networks, with special emphasis on cellular networks; Information Theory and Integrated Sensing and Communication. 
