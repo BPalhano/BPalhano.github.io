@@ -90,6 +90,7 @@ Skills
   * Discrete Control
   * Predictive Control
   * Robust Control
+  
 Languages
 ======
 * Portuguese -- Native
